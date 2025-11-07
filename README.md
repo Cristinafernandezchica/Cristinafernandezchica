@@ -7,8 +7,8 @@
 
   - 💻 Estudio Ingeniería Informática del Software en la Universidad de Sevilla.
   - 💡 Tengo curiosidad por el desarrollo en Android.
-  - 📖 Actualmente estoy aprendiendo Flask, Docker, Django...
-  - 👩‍💻 Actualmente estoy buscando prácticas universitarias.
+  - 📖 Actualmente, estoy aprendiendo Flask, Docker, Django...
+  - 👩‍💻 Estoy buscando prácticas universitarias.
 
 📫 &nbsp; Contacto
 
