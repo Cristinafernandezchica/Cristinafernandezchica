@@ -77,11 +77,11 @@
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Cristinafernandezchica&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+  <!-- <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Cristinafernandezchica&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />-->
  </br>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cristinafernandezchica"/>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristinafernandezchica&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+  <!-- <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristinafernandezchica&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" /> -->
 </p>
 
      
@@ -118,8 +118,9 @@
 
 ## Actualmente trabajando en...
 
-- [Tractor Amarillo - Tienda virtual](https://github.com/Cristinafernandezchica/tienda-virtual): Desarrollo de un e-commerce sobre venta de productos agrícolas. Las tecnologías que se están usando para su desarrollo son Django, Python, HTML, CSS y SQLite. También Render y PostgreSQL para el despliegue [Tractor Amarillo - Primera versión](https://tractor-amarillo.onrender.com). Es un trabajo desarrollado en grupo, en el contexto de la asignatura Planificación y Gestión de Proyectos Informáticos.
-- [cerveza-hub - Adaptación de uvlhub](https://github.com/cerveza-hub-1/cerveza-hub-1): Adaptación de un sistema pre-implementado para manejo de un nuevo tipo de datos, en nuestro caso csv. Actualmente, cuaenta con una primera versión desplegada en pruebas [cerveza-hub-1 - Versión M1](https://cerveza-hub-1.onrender.com/). Es un trabajo desarrollado en grupo, en el contexto de la asignatura Evolución y Gestión de la Configuración.
+- [Tractor Amarillo - Tienda virtual](https://github.com/Cristinafernandezchica/tienda-virtual): Desarrollo de un e-commerce sobre venta de productos agrícolas. Las tecnologías que se están usando para su desarrollo son Django, Python, HTML, CSS y SQLite. También Render y PostgreSQL para el despliegue [Tractor Amarillo - Versión final](https://tractor-amarillo.onrender.com). Es un trabajo desarrollado en grupo, en el contexto de la asignatura Planificación y Gestión de Proyectos Informáticos.
+- [cerveza-hub - Adaptación de uvlhub](https://github.com/cerveza-hub-1/cerveza-hub-1): Adaptación de un sistema pre-implementado para manejo de un nuevo tipo de datos, en nuestro caso csv. Actualmente, cuaenta con una primera versión desplegada en pruebas [cerveza-hub-1 - Versión M2](https://cerveza-hub-1.onrender.com/). Es un trabajo desarrollado en grupo, en el contexto de la asignatura Evolución y Gestión de la Configuración.
+- [Cipher Demo - Cifrado de Imágenes Médicas](https://github.com/Cristinafernandezchica/image-cipher-cripto-demo): Implementación de cifrado de imágenes médicas mediante MIE-MA y MIE-BX, realizando una adaptación a Python de lo implementado por el autor. Se encuentra desplegado en [Cifrado de Imágenes Médicas](https://image-cipher-cripto-demo.onrender.com/). Es un trabajo realizado en el marco de la asignatura Criptografía.
 
  
  
