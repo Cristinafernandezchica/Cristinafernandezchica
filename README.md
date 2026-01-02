@@ -21,73 +21,46 @@
 </br>
 
 
-<table width="100%" >
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td valign="top" style="padding: 10px;">
 
- <tr>
-    <td width="60%">
-     
-## 🛠️ Habilidades
+<h2>🛠️ Habilidades</h2>
 
-#### Lenguajes
+<h4>Lenguajes</h4>
+<img src="https://skillicons.dev/icons?i=java" /> 
+<img src="https://skillicons.dev/icons?i=python" /> 
+<img src="https://skillicons.dev/icons?i=js" />
 
-![Java](https://skillicons.dev/icons?i=java&perline=12)&nbsp;
-![Python](https://skillicons.dev/icons?i=python&perline=12)&nbsp;
-![Javascript](https://skillicons.dev/icons?i=js&perline=12)&nbsp;
+<h4>Frameworks y herramientas</h4>
+<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=django" />
+<img src="https://skillicons.dev/icons?i=flask" />
 
+<h4>Bases de datos</h4>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 
-#### Frameworks y herramientas
-![Spring Boot](https://skillicons.dev/icons?i=spring&perline=12)&nbsp;
-![Reactjs](https://skillicons.dev/icons?i=react&perline=12)&nbsp;
-![Nodejs](https://skillicons.dev/icons?i=nodejs&perline=12)&nbsp;
-![Django](https://skillicons.dev/icons?i=django&perline=12)&nbsp;
-![Flask](https://skillicons.dev/icons?i=flask&perline=12)&nbsp;
-<!--      
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) -->
-<!-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp; -->
+<h4>Herramientas y tecnologías</h4>
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=eclipse" />
+<img src="https://skillicons.dev/icons?i=idea" />
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
 
+<h4>Otros</h4>
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=ubuntu" />
 
-#### Bases de datos
-
-![MySQL](https://skillicons.dev/icons?i=mysql&perline=12)&nbsp;
-![MariaDB](https://img.shields.io/badge/MariaDB-316192?style=flat&logo=mariadb&logoColor=green)
-![DBeaver](https://img.shields.io/badge/DBeaver-316192?style=flat&logo=dbeaver&logoColor=green)
-![SQlite](https://skillicons.dev/icons?i=sqlite&perline=12)&nbsp;
-
-
-#### Herramientas y tecnologías
-
-![Git](https://skillicons.dev/icons?i=git&perline=12)&nbsp;
-![GitHub](https://skillicons.dev/icons?i=github&perline=12)&nbsp;
-![VSCode](https://skillicons.dev/icons?i=vscode&perline=12)&nbsp;
-![EclipseIDE](https://skillicons.dev/icons?i=eclipse&perline=12)&nbsp;
-
-<!-- ![PyPI](https://img.shields.io/badge/pypi-3775A9?style=flat&logo=pypi&logoColor=white)&nbsp; -->
-
-
-#### Otros
-
-![CSS](https://skillicons.dev/icons?i=css&perline=12)&nbsp;
-![HTML](https://skillicons.dev/icons?i=html&perline=12)&nbsp;
-![Ubuntu](https://skillicons.dev/icons?i=ubuntu&perline=12)&nbsp;
-     
-</td>
-    <td>
-  
-## 📄📜 Stats
-
-
-<p align="center">
-  <!-- <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Cristinafernandezchica&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />-->
- </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cristinafernandezchica"/>
- </br>
-  <!-- <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristinafernandezchica&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" /> -->
-</p>
-
-     
-  </td>
- </tr>
+  </tr>
 </table>
+
 
 
 <!--
@@ -110,17 +83,21 @@
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
 -->
 
+## Proyectos recientes
+
+- [Tractor Amarillo - Tienda virtual](https://github.com/Cristinafernandezchica/tienda-virtual): Desarrollo de un e-commerce sobre venta de productos agrícolas. Las tecnologías que se están usando para su desarrollo son Django, Python, HTML, CSS y SQLite. También Render y PostgreSQL para el despliegue [Tractor Amarillo - Versión final](https://tractor-amarillo.onrender.com). Es un trabajo desarrollado en grupo, en el contexto de la asignatura Planificación y Gestión de Proyectos Informáticos.
+- [cerveza-hub - Adaptación de uvlhub](https://github.com/cerveza-hub-1/cerveza-hub-1): Adaptación de un sistema pre-implementado para manejo de un nuevo tipo de datos, en nuestro caso csv. Actualmente, cuaenta con una primera versión desplegada en pruebas [cerveza-hub-1 - Versión M2](https://cerveza-hub-1.onrender.com/). Es un trabajo desarrollado en grupo, en el contexto de la asignatura Evolución y Gestión de la Configuración.
+- [Cipher Demo - Cifrado de Imágenes Médicas](https://github.com/Cristinafernandezchica/image-cipher-cripto-demo): Implementación de cifrado de imágenes médicas mediante MIE-MA y MIE-BX, realizando una adaptación a Python de lo implementado por el autor. Se encuentra desplegado en [Cifrado de Imágenes Médicas](https://image-cipher-cripto-demo.onrender.com/). Es un trabajo realizado en el marco de la asignatura Criptografía.
+
 ## Proyectos en los que he participado
 
-- [Skull Kinkg - Juego de mesa](https://github.com/Cristinafernandezchica/skullking): Implementación web del juego de mesa Skull King, con manejo de lógica de cartas, turnos, rondas, puntos y solicitudes de amistad. Desarrollé los roles de desarrolladora y Scrum Master. Este proyecto se realizó en grupo, en el contexto de la asignatura Diseño y Pruebas 1. Las tecnologías utilizadas para su implementación son Java, Spring Boot, React y Java Script.
+- [Skull King - Juego de mesa](https://github.com/Cristinafernandezchica/skullking): Implementación web del juego de mesa Skull King, con manejo de lógica de cartas, turnos, rondas, puntos y solicitudes de amistad. Desarrollé los roles de desarrolladora y Scrum Master. Este proyecto se realizó en grupo, en el contexto de la asignatura Diseño y Pruebas 1. Las tecnologías utilizadas para su implementación son Java, Spring Boot, React y Java Script.
 - [Lights Out - Resolución por planificación automática](https://github.com/Cristinafernandezchica/Planificacion-automatica-Lightsout): Implementación en Python de un sistema de resolución del juego Lights Out mediante planifiación automática. Se desarrollaron algoritmos como BFS y DFS optimizados, A*, álgebra lineal y heurística propia. Este proyecto se realizó en pareja, en el contexto de la asignatura Inteligencia Artificial.
 - [ACME-Ans - Plataforma de gestión de vuelos](https://github.com/Cristinafernandezchica/Acme-ANS): Implementación web de una aplicación para la gestión de vuelos, desarrollado en Java con un Framework proporcionado por el porfesorado de la asignatura Diseño y Pruebas 2. Desarrollé los roles de desarrolladora, como Student 1, y Scrum Master. Este proyecto se realizó en grupo.
 
 ## Actualmente trabajando en...
 
-- [Tractor Amarillo - Tienda virtual](https://github.com/Cristinafernandezchica/tienda-virtual): Desarrollo de un e-commerce sobre venta de productos agrícolas. Las tecnologías que se están usando para su desarrollo son Django, Python, HTML, CSS y SQLite. También Render y PostgreSQL para el despliegue [Tractor Amarillo - Versión final](https://tractor-amarillo.onrender.com). Es un trabajo desarrollado en grupo, en el contexto de la asignatura Planificación y Gestión de Proyectos Informáticos.
-- [cerveza-hub - Adaptación de uvlhub](https://github.com/cerveza-hub-1/cerveza-hub-1): Adaptación de un sistema pre-implementado para manejo de un nuevo tipo de datos, en nuestro caso csv. Actualmente, cuaenta con una primera versión desplegada en pruebas [cerveza-hub-1 - Versión M2](https://cerveza-hub-1.onrender.com/). Es un trabajo desarrollado en grupo, en el contexto de la asignatura Evolución y Gestión de la Configuración.
-- [Cipher Demo - Cifrado de Imágenes Médicas](https://github.com/Cristinafernandezchica/image-cipher-cripto-demo): Implementación de cifrado de imágenes médicas mediante MIE-MA y MIE-BX, realizando una adaptación a Python de lo implementado por el autor. Se encuentra desplegado en [Cifrado de Imágenes Médicas](https://image-cipher-cripto-demo.onrender.com/). Es un trabajo realizado en el marco de la asignatura Criptografía.
+- [TFG - Posicionamiento y Guía Indoor](https://github.com/Cristinafernandezchica/tfg-android-indoor-app): Desarrollo de una aplicación de guía y posicionamiento dentro de edificios, en este caso se ha utilizado como espacio un piso piloto, siendo la utilidad principal del sistema de guía para múltiples visitantes al mismo tiempo del piso piloto. Las tecnologías que se están usando para su desarrollo son Android, Kotlin, Python, Flask, XML y PostgreSQL, entre otras. El proyecto se compone de tres repositorios, dos APIs que sirven a la aplicación y el repositorio principal de la aplicación: [Repositorio principal - App Android Indoor](https://github.com/Cristinafernandezchica/tfg-android-indoor-app), [API Rutas](https://github.com/Cristinafernandezchica/tfg-api-rooms) y [API Usuarios](https://github.com/Cristinafernandezchica/tfg-api-users). Es un trabajo desarrollado individualmente, en el contexto de la realización del Trabajo de Fin de Grado del grado en Ingenería Informática - Ingeniería del Software que estoy cursando actualmente.
 
  
  
