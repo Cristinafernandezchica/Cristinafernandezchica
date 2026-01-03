@@ -13,8 +13,8 @@
 📫 &nbsp; Contacto
 
 <p align="left">
-<a href="https://www.linkedin.com/in/cristina-fern%C3%A1ndez-1a8337373" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 <a href = "mailto:cristinafdezchica@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/cristina-fern%C3%A1ndez-1a8337373" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
   </p>
 <hr>
 
